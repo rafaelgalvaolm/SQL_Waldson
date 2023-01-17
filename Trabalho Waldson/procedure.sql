@@ -10,7 +10,7 @@ CREATE PROCEDURE [SP.Incremento_de_Estoque]
     Data....................: 16/01/2023
     Ex......................: EXEC [SP.Incremento_de_Estoque]
     código de retorno.......: 0 - Execução OK
-                              1 - Falha na Execução
+                            
     */
 
     BEGIN
