@@ -21,7 +21,4 @@ CREATE PROCEDURE [SP.Incremento_de_Estoque]
             
         RETURN 0
 
-        @@ERROR
-        RETURN 1
-
     END
